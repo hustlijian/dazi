@@ -2,7 +2,7 @@
 
 This is a typing game in windows xp/7. It is a small game I wrote for my girlfriend to pass her class.  
 
-一个windows终端下的打字游戏,这是为我女朋友C语言程序实践做的小游戏。
+一个windows终端下的打字游戏。
 
 ## Platforms
 1. windows xp/7; 
